@@ -11,7 +11,7 @@ Paulo Coelho:
 > “One day you will wake up and there won't be any more time to do the things you've always wanted. Do it now.”
 
 
-- 🌱 I’m currently taking **Artificial Intelligence and Machine Learning minor at UvA**
+- 🌱 I’m currently studying Master's Degree in **Digital Marketing & Data Science**. Previously, I took **Artificial Intelligence and Machine Learning minor at UvA**
 
 - 😺 **Github is to practice all the materials that I learned in my data science courses and also to stay tuned for the programming world** 
 
